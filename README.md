@@ -25,7 +25,7 @@ You can:
 
 ---
 
-##🗂️ Basic SQL Functions Demonstrated
+## 🗂️ Basic SQL Functions Demonstrated
 
 This repository includes examples and usage of fundamental SQL operations:
 
